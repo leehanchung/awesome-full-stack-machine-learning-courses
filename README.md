@@ -7,6 +7,7 @@ This is a self study guide for learning full stack machine learning engineering,
 ### :tv: Course
 [edX MITX: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-4)
 
+[edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
 
 # Machine Learning
@@ -53,7 +54,7 @@ This is a self study guide for learning full stack machine learning engineering,
 
 [Berkeley CS188: Artificial Intelligence](https://edge.edx.org/courses/course-v1:BerkeleyX+CS188+2018_SP/course/)
 
-[edX ColumbiaX: Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-ai) [Reference Solutions](https://github.com/leehanchung/CSMM-101x-AI)
+[edX ColumbiaX: Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-ai) [[Reference Solutions](https://github.com/leehanchung/CSMM-101x-AI)]
 
 
 
@@ -68,7 +69,7 @@ This is a self study guide for learning full stack machine learning engineering,
 ### :tv: Course
 [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
-[Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019)
+[Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019)[[Reference Solutions](https://github.com/leehanchung/cs182)]
 
 
 ## Natural Language Programming
@@ -77,9 +78,9 @@ This is a self study guide for learning full stack machine learning engineering,
 [Deep Learning](http://www.deeplearningbook.org/)
 
 ### :tv: Course
-[Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) [Reference Solutions](https://github.com/leehanchung/cs224n)
+[Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) [[Reference Solutions](https://github.com/leehanchung/cs224n)]
 
-[Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019) [Reference Solutions](https://github.com/leehanchung/cs182)
+[Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019) [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
 
 ## Deep Reinforcement Learning
@@ -89,11 +90,11 @@ This is a self study guide for learning full stack machine learning engineering,
 [Reinforcement Learning](http://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 
 ### :tv: Course
-[Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019)
-
-[Berekley: Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+[Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019)[[Reference Solutions](https://github.com/leehanchung/cs182)]
 
 [Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+
+[Berekley: Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 
 ## Unsupervised Learning and Generative Models
