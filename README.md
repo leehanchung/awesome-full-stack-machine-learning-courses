@@ -53,7 +53,7 @@ This is a self study guide for learning full stack machine learning engineering,
 
 [Berkeley CS188: Artificial Intelligence](https://edge.edx.org/courses/course-v1:BerkeleyX+CS188+2018_SP/course/)
 
-[edX ColumbiaX: Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-ai)
+[edX ColumbiaX: Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-ai) [Reference Solutions](https://github.com/leehanchung/CSMM-101x-AI)
 
 
 
@@ -77,9 +77,9 @@ This is a self study guide for learning full stack machine learning engineering,
 [Deep Learning](http://www.deeplearningbook.org/)
 
 ### :tv: Course
-[Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+[Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) [Reference Solutions](https://github.com/leehanchung/cs224n)
 
-[Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019)
+[Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019) [Reference Solutions](https://github.com/leehanchung/cs182)
 
 
 ## Deep Reinforcement Learning
