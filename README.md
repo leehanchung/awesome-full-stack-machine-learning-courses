@@ -4,17 +4,33 @@ This is a self study guide for learning full stack machine learning engineering,
 
 
 # Computer Science
+
+Basic computer science skill is required for machine learning engineering.
+
+
+### :book: Textbook
+[Grokking Algorithms](https://github.com/KevinOfNeu/ebooks/blob/master/Grokking%20Algorithms.pdf)
+
 ### :tv: Course
+[Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+
 [edX MITX: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-4)
 
 [edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
 
 # Machine Learning
+
+Fundamentals of machine learning, including linear algebra, vector calculus, and statistics.
+
+
 ### :book: Textbook
+[Mathematics for Machine Learning](https://mml-book.github.io/)
+
 [Concise Machine Learning](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
 
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+
 ### :tv: Course
 [MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 
@@ -27,11 +43,15 @@ This is a self study guide for learning full stack machine learning engineering,
 [edX ColumbiaX: Machine Learning](https://www.edx.org/course/machine-learning)
 
 
-
 # Machine Learning Project Design, Pipeline, and Deployment
 
-### :book: Textbook
+If a model was trained on a computer and no API is around to serve it, can it make an inference?
+
+
+### :newspaper: Articles
 [Machine Learning: The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
+
+[Software Engineering for Machine Learning: A Case Study](https://ieeexplore.ieee.org/document/8804457)
 
 ### :tv: Course
 [Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/)
@@ -43,8 +63,10 @@ This is a self study guide for learning full stack machine learning engineering,
 [Pipeline.ai: Hands-on with KubeFlow + Keras/TensorFlow 2.0 + TF Extended (TFX) + Kubernetes + PyTorch + XGBoost](https://www.youtube.com/watch?v=AaBqhGEwxXI)
 
 
-
 # Artificial Intelligence
+
+Machine learning is a sub field of Artificial Intelligence. These courses provides a much higher level understanding of the field of AI.
+
 
 ### :book: Textbook
 
@@ -57,8 +79,16 @@ This is a self study guide for learning full stack machine learning engineering,
 [edX ColumbiaX: Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-ai): [[Reference Solutions](https://github.com/leehanchung/CSMM-101x-AI)]
 
 
-
 # Specializations
+
+## Deep Learning Overview
+
+Basic overview for deep learning.
+
+### :book: Textbook
+[Deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): [Reference Solutions](https://github.com/leehanchung/deeplearning.ai)
+
+[Fast.ai Part 2](https://course.fast.ai/part2)
 
 
 ## Vision
@@ -72,10 +102,14 @@ This is a self study guide for learning full stack machine learning engineering,
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
 
-## Natural Language Programming
+## Natural Language Processing
+
+With languages models and sequential models, everyone can write like GPT-2.
 
 ### :book: Textbook
 [Deep Learning](http://www.deeplearningbook.org/)
+
+[Introduction to Natural Language Processing](https://www.amazon.com/Introduction-Language-Processing-Adaptive-Computation/dp/0262042843)
 
 ### :tv: Course
 [Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/): [[Reference Solutions](https://github.com/leehanchung/cs224n)]
@@ -84,6 +118,8 @@ This is a self study guide for learning full stack machine learning engineering,
 
 
 ## Deep Reinforcement Learning
+
+
 ### :book: Textbook
 [Deep Learning](http://www.deeplearningbook.org/)
 
@@ -94,15 +130,17 @@ This is a self study guide for learning full stack machine learning engineering,
 
 [Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
+[CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/)
+
 [Berekley: Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
+[OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
 
 
 ## Unsupervised Learning and Generative Models
 
-### :tv: Course
 
+### :tv: Course
 [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
 
 [Berkeley CS294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
-
-[OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
