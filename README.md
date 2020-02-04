@@ -12,6 +12,8 @@ Basic computer science skill is required for machine learning engineering.
 [Grokking Algorithms](https://github.com/KevinOfNeu/ebooks/blob/master/Grokking%20Algorithms.pdf)
 
 ### :tv: Course
+[MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/)
+
 [Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 [edX MITX: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-4)
