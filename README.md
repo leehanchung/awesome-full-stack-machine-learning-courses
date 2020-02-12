@@ -53,6 +53,8 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 ### :newspaper: Articles
 [Machine Learning: The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
 
+[How do Data Science Workers Collaborate? Roles, Workflows, and Tools](https://arxiv.org/abs/2001.06684)
+
 [Software Engineering for Machine Learning: A Case Study](https://ieeexplore.ieee.org/document/8804457)
 
 ### :tv: Course
