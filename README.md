@@ -155,7 +155,7 @@ With languages models and sequential models, everyone can write like GPT-2.
 All books, blogs, and courses are owned by their respective authors.
 
 You can use my compilation and my reference solutions under the open CC BY-SA 3.0 license and cite it as:
-
+```
 @misc{leehanchung,
   author = {Lee, Hanchung},
   title = {Full Stack Machine Learning Engineering Courses},
@@ -163,3 +163,4 @@ You can use my compilation and my reference solutions under the open CC BY-SA 3.
   howpublished = {Github Repo},
   url = {https://github.com/full_stack_machine_learning_engineering_courses}
 }
+```
