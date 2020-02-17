@@ -1,6 +1,5 @@
 # Self Study Guide for Full Stack Machine Learning Engineering
-This is a self study guide for learning full stack machine learning engineering, break down by topics and specializations.  Python is the preferred framework as it covers the whole machine learning engineering framework from end-to-end.
-
+This is a self study guide for learning full stack machine learning engineering, break down by topics and specializations.  Python is the preferred framework as it covers end-to-end machine learning engineering.
 
 
 # Computer Science
@@ -150,3 +149,17 @@ With languages models and sequential models, everyone can write like GPT-2.
 [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
 
 [Berkeley CS294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+
+
+## LICENSE
+All books, blogs, and courses are owned by their respective authors.
+
+You can use my compilation and my reference solutions under the open CC BY-SA 3.0 license and cite it as:
+
+@misc{leehanchung,
+  author = {Lee, Hanchung},
+  title = {Full Stack Machine Learning Engineering Courses},
+  year = {2020},
+  howpublished = {Github Repo},
+  url = {https://github.com/full_stack_machine_learning_engineering_courses}
+}
