@@ -57,7 +57,7 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 
 [Software Engineering for Machine Learning: A Case Study](https://ieeexplore.ieee.org/document/8804457)
 
-[The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
+[Spotify: The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
 
 ### :tv: Course
 [Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/)
