@@ -37,11 +37,13 @@ Fundamentals of machine learning, including linear algebra, vector calculus, and
 
 [MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
-[CalTech: Learning From Data](https://work.caltech.edu/telecourse.html)
-
 [Stanford Stats216: Statiscal Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
+[CalTech: Learning From Data](https://work.caltech.edu/telecourse.html)
+
 [edX ColumbiaX: Machine Learning](https://www.edx.org/course/machine-learning)
+
+[Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229)
 
 
 # Machine Learning Project Design, Pipeline, and Deployment
@@ -57,6 +59,8 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 [Software Engineering for Machine Learning: A Case Study](https://ieeexplore.ieee.org/document/8804457)
 
 [Spotify: The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
+
+[Toutiao (ByteDance/Tik-Tok) Recommendation System Design](https://leehanchung.github.io/2020-02-18-Tik-Tok-Algorithm/)
 
 ### :tv: Course
 [Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/)
