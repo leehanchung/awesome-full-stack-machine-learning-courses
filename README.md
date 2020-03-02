@@ -32,7 +32,7 @@ Fundamentals of machine learning, including linear algebra, vector calculus, and
 
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
-[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)[Codes](https://github.com/ctgk/PRML)
+[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf): [[Codes](https://github.com/ctgk/PRML)]
 
 ### :tv: Course
 [MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
@@ -97,7 +97,7 @@ Machine learning is a sub field of Artificial Intelligence. These courses provid
 Basic overview for deep learning.
 
 ### :book: Textbook
-[Deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): [Reference Solutions](https://github.com/leehanchung/deeplearning.ai)
+[Deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): [[Reference Solutions](https://github.com/leehanchung/deeplearning.ai)]
 
 [Fast.ai Part 2](https://course.fast.ai/part2)
 
@@ -141,7 +141,7 @@ With languages models and sequential models, everyone can write like GPT-2.
 
 [Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
-[CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/) [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+[CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/): [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 
 [Berekley: Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
