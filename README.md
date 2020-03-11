@@ -159,6 +159,20 @@ With languages models and sequential models, everyone can write like GPT-2.
 [Berkeley CS294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
 
+## Robotics :robot:
+
+
+### :tv: Course
+[ColumbiaX: CSMM.103x Robotics](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.103x+1T2020/)
+
+[CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+
+
+
+
+
+
+
 ## LICENSE
 All books, blogs, and courses are owned by their respective authors.
 
