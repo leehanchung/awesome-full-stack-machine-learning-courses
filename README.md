@@ -114,7 +114,7 @@ Basic overview for deep learning.
 ### :books: Textbooks
 [Deep Learning](http://www.deeplearningbook.org/)
 
-### :school: Course
+### :school: Courses
 [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/): [[Assignment 2 Solution](https://github.com/leehanchung/cs182/tree/master/assignment1), [Assignment 3 Solution](https://github.com/leehanchung/cs182/tree/master/assignment2)] 
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
@@ -129,7 +129,7 @@ With languages models and sequential models, everyone can write like GPT-2.
 
 [Introduction to Natural Language Processing](https://www.amazon.com/Introduction-Language-Processing-Adaptive-Computation/dp/0262042843)
 
-### :school: Course
+### :school: Courses
 [Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/): [[Reference Solutions](https://github.com/leehanchung/cs224n)] 
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
@@ -143,7 +143,7 @@ With languages models and sequential models, everyone can write like GPT-2.
 
 [Deep Learning](http://www.deeplearningbook.org/)
 
-### :school: Course
+### :school: Courses
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
 [Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234/)
@@ -159,7 +159,7 @@ With languages models and sequential models, everyone can write like GPT-2.
 
 ## Unsupervised Learning and Generative Models
 
-### :school: Course
+### :school: Courses
 [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
 
 [Berkeley CS294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
@@ -168,7 +168,7 @@ With languages models and sequential models, everyone can write like GPT-2.
 ## Robotics :robot:
 
 
-### :school: Course
+### :school: Courses
 [ColumbiaX: CSMM.103x Robotics](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.103x+1T2020/)
 
 [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
