@@ -1,5 +1,5 @@
 # Self Study Guide for Full Stack Machine Learning Engineering
-This is a self study guide for learning full stack machine learning engineering, break down by topics and specializations.  Python is the preferred framework as it covers end-to-end machine learning engineering.
+This is a self study guide for learning full stack machine learning engineering, break down by topics and specializations.  Python is the preferred framework as it covers end-to-end machine learning engineering. Highly recommended basic courses are marked with :star:.
 
 
 # Computer Science
@@ -7,19 +7,19 @@ This is a self study guide for learning full stack machine learning engineering,
 Basic computer science skill is required for machine learning engineering.
 
 
-### :book: Textbook
+### :books: Textbooks
 [Grokking Algorithms](https://github.com/KevinOfNeu/ebooks/blob/master/Grokking%20Algorithms.pdf)
 
 [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 
-### :tv: Course
-[MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/)
+### :school: Courses
+[MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/) :star:
 
 [Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
-[edX MITX: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-4)
+[edX MITX: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-4) :star:
 
-[edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+[edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) 
 
 
 # Machine Learning
@@ -27,21 +27,23 @@ Basic computer science skill is required for machine learning engineering.
 Fundamentals of machine learning, including linear algebra, vector calculus, and statistics.
 
 
-### :book: Textbook
+### :books: Textbooks
 [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 [Concise Machine Learning](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
 
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
+[Mining of Massive Datasets](http://www.mmds.org/)
+
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf): [[Codes](https://github.com/ctgk/PRML)]
 
-### :tv: Course
-[MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
+### :school: Courses
+[MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) :star:
 
-[MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+[MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) :star:
 
-[Stanford Stats216: Statiscal Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+[Stanford Stats216: Statiscal Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) :star:
 
 [CalTech: Learning From Data](https://work.caltech.edu/telecourse.html)
 
@@ -49,6 +51,7 @@ Fundamentals of machine learning, including linear algebra, vector calculus, and
 
 [Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229)
 
+[Stanford CS246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 
 # Machine Learning Project Design, Pipeline, and Deployment
 
@@ -68,10 +71,10 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 
 [Toutiao (ByteDance/Tik-Tok) Recommendation System Design](https://leehanchung.github.io/2020-02-18-Tik-Tok-Algorithm/)
 
-### :tv: Course
-[Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+### :school: Courses
+[Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/) :star:
 
-[Udemy: Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models)
+[Udemy: Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models) :star:
 
 [Udemy: The Complete Hands On Course To Master Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow)
 
@@ -83,36 +86,36 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 Machine learning is a sub field of Artificial Intelligence. These courses provides a much higher level understanding of the field of AI.
 
 
-### :book: Textbook
+### :books: Textbooks
 
 [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
 
-### :tv: Course
+### :school: Courses
 
-[Berkeley CS188: Artificial Intelligence](https://edge.edx.org/courses/course-v1:BerkeleyX+CS188+2018_SP/course/)
+[Berkeley CS188: Artificial Intelligence](https://edge.edx.org/courses/course-v1:BerkeleyX+CS188+2018_SP/course/) :star:
 
 [edX ColumbiaX: Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-ai): [[Reference Solutions](https://github.com/leehanchung/CSMM-101x-AI)]
 
-
-# Specializations
-
-## Deep Learning Overview
+# Deep Learning Overview
 
 Basic overview for deep learning.
 
-### :book: Textbook
-[Deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): [[Reference Solutions](https://github.com/leehanchung/deeplearning.ai)]
+### :school: Courses
+[Deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): [[Reference Solutions](https://github.com/leehanchung/deeplearning.ai)] :star:
 
 [Fast.ai Part 2](https://course.fast.ai/part2)
 
 
+
+# Specializations
+
 ## Vision
 
-### :book: Textbook
+### :books: Textbooks
 [Deep Learning](http://www.deeplearningbook.org/)
 
-### :tv: Course
-[Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/): [[Assignment 2 Solution](https://github.com/leehanchung/cs182/tree/master/assignment1), [Assignment 3 Solution](https://github.com/leehanchung/cs182/tree/master/assignment2)]
+### :school: Course
+[Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/): [[Assignment 2 Solution](https://github.com/leehanchung/cs182/tree/master/assignment1), [Assignment 3 Solution](https://github.com/leehanchung/cs182/tree/master/assignment2)] 
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
@@ -121,27 +124,29 @@ Basic overview for deep learning.
 
 With languages models and sequential models, everyone can write like GPT-2.
 
-### :book: Textbook
+### :books: Textbook
 [Deep Learning](http://www.deeplearningbook.org/)
 
 [Introduction to Natural Language Processing](https://www.amazon.com/Introduction-Language-Processing-Adaptive-Computation/dp/0262042843)
 
-### :tv: Course
-[Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/): [[Reference Solutions](https://github.com/leehanchung/cs224n)]
+### :school: Course
+[Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/): [[Reference Solutions](https://github.com/leehanchung/cs224n)] 
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
 
 ## Deep Reinforcement Learning
 
-
-### :book: Textbook
-[Deep Learning](http://www.deeplearningbook.org/)
+### :books: Textbook
 
 [Reinforcement Learning](http://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 
-### :tv: Course
+[Deep Learning](http://www.deeplearningbook.org/)
+
+### :school: Course
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
+
+[Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234/)
 
 [Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
@@ -154,8 +159,7 @@ With languages models and sequential models, everyone can write like GPT-2.
 
 ## Unsupervised Learning and Generative Models
 
-
-### :tv: Course
+### :school: Course
 [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
 
 [Berkeley CS294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
@@ -164,14 +168,10 @@ With languages models and sequential models, everyone can write like GPT-2.
 ## Robotics :robot:
 
 
-### :tv: Course
+### :school: Course
 [ColumbiaX: CSMM.103x Robotics](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.103x+1T2020/)
 
 [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
-
-
-
-
 
 
 
