@@ -115,7 +115,7 @@ Basic overview for deep learning.
 [Deep Learning](http://www.deeplearningbook.org/)
 
 ### :school: Courses
-[Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/): [[Assignment 2 Solution](https://github.com/leehanchung/cs182/tree/master/assignment1), [Assignment 3 Solution](https://github.com/leehanchung/cs182/tree/master/assignment2)] 
+[Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/): [[Assignment 2 Solution](https://github.com/leehanchung/cs182/tree/master/assignment1), [Assignment 3 Solution](https://github.com/leehanchung/cs182/tree/master/assignment2)] :star:
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
@@ -130,7 +130,7 @@ With languages models and sequential models, everyone can write like GPT-2.
 [Introduction to Natural Language Processing](https://www.amazon.com/Introduction-Language-Processing-Adaptive-Computation/dp/0262042843)
 
 ### :school: Courses
-[Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/): [[Reference Solutions](https://github.com/leehanchung/cs224n)] 
+[Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/): [[Reference Solutions](https://github.com/leehanchung/cs224n)] :star:
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
@@ -148,7 +148,7 @@ With languages models and sequential models, everyone can write like GPT-2.
 
 [Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234/)
 
-[Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+[Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) :star:
 
 [CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/): [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 
