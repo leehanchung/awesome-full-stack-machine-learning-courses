@@ -21,6 +21,11 @@ Basic computer science skill is required for machine learning engineering.
 
 [edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) 
 
+# Data Engineering
+
+[SQL for Data Analysis](https://classroom.udacity.com/courses/ud198)
+
+[Spark](https://classroom.udacity.com/courses/ud2002)
 
 # Machine Learning
 
