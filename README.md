@@ -58,6 +58,8 @@ Fundamentals of machine learning, including linear algebra, vector calculus, and
 
 [Stanford CS246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 
+[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+
 # Machine Learning Project Design, Pipeline, and Deployment
 
 If a model was trained on a computer and no API is around to serve it, can it make an inference?
