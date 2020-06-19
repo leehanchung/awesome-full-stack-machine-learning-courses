@@ -148,11 +148,13 @@ With languages models and sequential models, everyone can write like GPT-2.
 
 ### :books: Textbook
 
-[Reinforcement Learning](http://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+[Reinforcement Learning](http://www.incompleteideas.net/book/the-book.html)
 
 [Deep Learning](http://www.deeplearningbook.org/)
 
 ### :school: Courses
+[Coursera: Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) <= Recommended by [Richard Sutton](https://www.reddit.com/r/MachineLearning/comments/h940xb/what_is_the_best_way_to_learn_about_reinforcement/), the author of the de facto textbook on RL. :star:
+
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
 [Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234/)
