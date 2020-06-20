@@ -1,27 +1,9 @@
 # Guides and Resources Full Stack Machine Learning Engineering
-This is curated guide of resources for full stack machine learning engineering, break down by topics and specializations.  Python is the preferred framework as it covers end-to-end machine learning engineering.
+This is curated guide of resources and case studies for full stack machine learning engineering, break down by topics and specializations. Python is the preferred language of choice as it covers end-to-end machine learning engineering.
 
-The curated resources will be focusing around the infamous hidden technical debt of machine learning paper by Google. Note that machine learning models, while crucial, requires a lot of engineering services and effort to be productized to generate business values.
+The curated resources will be focusing around the infamous hidden technical debt of machine learning paper by Google. Note that machine learning models, while crucial, requires a lot of engineering services and effort to be productized to generate business values. For those who does not have a technical background in or wants some refreshers of computer science, please visit the [computer science section](#Computer-Science).
 
 ![Hidden Debt of Machine Learning](docs/assets/technical_debt_ml.png)
-
-# Computer Science
-
-Basic computer science skill is required for machine learning engineering.
-
-### :books: Textbooks
-[Grokking Algorithms](https://github.com/KevinOfNeu/ebooks/blob/master/Grokking%20Algorithms.pdf)
-
-[Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
-
-### :school: Courses
-[MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/) :star:
-
-[Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
-
-[edX MITX: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-4) :star:
-
-[edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) 
 
 # Data Engineering
 
@@ -29,15 +11,16 @@ Basic computer science skill is required for machine learning engineering.
 
 [Spark](https://classroom.udacity.com/courses/ud2002)
 
+#### Data Engineering Frameworks
 
-# Machine Learning Pipeline Tools
+[Spark](https://spark.apache.org/)
 
 [Airflow](https://airflow.apache.org/)
 
 [dagster](https://docs.dagster.io/)
 
 
-# Machine Learning Project Deployment
+# Machine Learning Model Serving
 
 If a model was trained on a computer and no API is around to serve it, can it make an inference?
 
@@ -50,8 +33,37 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 
 [Pipeline.ai: Hands-on with KubeFlow + Keras/TensorFlow 2.0 + TF Extended (TFX) + Kubernetes + PyTorch + XGBoost](https://www.youtube.com/watch?v=AaBqhGEwxXI)
 
+#### Model Serving Frameworks
+
+[Google: Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving)
+
+[Sheldon](https://www.seldon.io/)
+
+[Cortex](https://docs.cortex.dev/)
+
+[Google: KF Serving](https://www.kubeflow.org/docs/components/serving/)
+
+[Flask](https://flask.palletsprojects.com/en/1.1.x/api/)
+
+[FastAPI](https://fastapi.tiangolo.com/)
+
+[RedisAI](https://oss.redislabs.com/redisai/)
+
+[Lyft: FlyteHub](https://flytehub.org/) [example](https://flytehub.org/objectdetector)
+
+[Uber: Neuropod](https://eng.uber.com/introducing-neuropod/)
+
 
 # Machine Learning Operations (MLOps)
+
+## Case Studies and Tutorials
+[Tutorial: From Notebook to Kubeflow Pipeline](https://www.youtube.com/watch?v=C9rJzTzVzvQ)
+
+[How to version control your production machine learning models](https://algorithmia.com/blog/how-to-version-control-your-production-machine-learning-models)
+
+[Microsoft Azure ML Ops Python](https://github.com/microsoft/MLOpsPython)
+
+[Production Data Science](https://github.com/FilippoBovo/production-data-science)
 
 ## Continous Integration/Continous Delivery
 
@@ -79,26 +91,33 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 # Machine Learning Project Design Case Studies
 
 #### :newspaper: Articles
-[Case Studies](MLE_Case_Studies.md)
+[Microsoft: The Team Data Science Process lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle)
 
-[Machine Learning: The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
+[Microsoft: Software Engineering for Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
 
-[Introducing the Well Architected Framework for Machine Learning](https://aws.amazon.com/blogs/architecture/introducing-the-well-architected-framework-for-machine-learning/)
+
+[Google: Machine Learning: The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
+
+[Amazon: Introducing the Well Architected Framework for Machine Learning](https://aws.amazon.com/blogs/architecture/introducing-the-well-architected-framework-for-machine-learning/)
 
 [How do Data Science Workers Collaborate? Roles, Workflows, and Tools](https://arxiv.org/abs/2001.06684)
 
 [Software Engineering for Machine Learning: A Case Study](https://ieeexplore.ieee.org/document/8804457)
 
+[Case Studies](MLE_Case_Studies.md)
+
 [Spotify: The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
 
-[Toutiao (ByteDance/Tik-Tok) Recommendation System Design](https://leehanchung.github.io/2020-02-18-Tik-Tok-Algorithm/)
+[Toutiao (ByteDance/Tik-Tok): Recommendation System Design](https://leehanchung.github.io/2020-02-18-Tik-Tok-Algorithm/)
+
+[DailyMotion: Industrializing Machine Learning Pipelines](https://fr.slideshare.net/GermainTanguy/industrializing-machine-learning-pipelines)
 
 [Paypal: On a Deep Journey towards Five Nines](https://www.infoq.com/presentations/journey-99999/)
+
 
 # Machine Learning Modeling
 
 Fundamentals of machine learning, including linear algebra, vector calculus, and statistics.
-
 
 #### :books: Textbooks
 [Mathematics for Machine Learning](https://mml-book.github.io/)
@@ -156,7 +175,6 @@ Basic overview for deep learning.
 ## Specializations
 
 ### Recommendation Systems
-
 
 ### Vision
 
@@ -223,6 +241,24 @@ With languages models and sequential models, everyone can write like GPT-2.
 
 [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
+
+# Computer Science
+
+Basic computer science skill is required for machine learning engineering.
+
+### :books: Textbooks
+[Grokking Algorithms](https://github.com/KevinOfNeu/ebooks/blob/master/Grokking%20Algorithms.pdf)
+
+[Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
+
+### :school: Courses
+[MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/) :star:
+
+[Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+
+[edX MITX: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-4) :star:
+
+[edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) 
 
 
 # LICENSE
