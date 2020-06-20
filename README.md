@@ -1,11 +1,13 @@
-# Self Study Guide for Full Stack Machine Learning Engineering
-This is a self study guide for learning full stack machine learning engineering, break down by topics and specializations.  Python is the preferred framework as it covers end-to-end machine learning engineering. Highly recommended basic courses are marked with :star:.
+# Guides and Resources Full Stack Machine Learning Engineering
+This is curated guide of resources for full stack machine learning engineering, break down by topics and specializations.  Python is the preferred framework as it covers end-to-end machine learning engineering.
 
+The curated resources will be focusing around the infamous hidden technical debt of machine learning paper by Google. Note that machine learning models, while crucial, requires a lot of engineering services and effort to be productized to generate business values.
+
+![Hidden Debt of Machine Learning](docs/assets/technical_debt_ml.png)
 
 # Computer Science
 
 Basic computer science skill is required for machine learning engineering.
-
 
 ### :books: Textbooks
 [Grokking Algorithms](https://github.com/KevinOfNeu/ebooks/blob/master/Grokking%20Algorithms.pdf)
@@ -27,12 +29,78 @@ Basic computer science skill is required for machine learning engineering.
 
 [Spark](https://classroom.udacity.com/courses/ud2002)
 
-# Machine Learning
+
+# Machine Learning Pipeline Tools
+
+[Airflow](https://airflow.apache.org/)
+
+[dagster](https://docs.dagster.io/)
+
+
+# Machine Learning Project Deployment
+
+If a model was trained on a computer and no API is around to serve it, can it make an inference?
+
+#### :school: Courses
+[Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/) :star:
+
+[Udemy: Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models) :star:
+
+[Udemy: The Complete Hands On Course To Master Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow)
+
+[Pipeline.ai: Hands-on with KubeFlow + Keras/TensorFlow 2.0 + TF Extended (TFX) + Kubernetes + PyTorch + XGBoost](https://www.youtube.com/watch?v=AaBqhGEwxXI)
+
+
+# Machine Learning Operations (MLOps)
+
+## Continous Integration/Continous Delivery
+
+[GCP ML Pipeline Generator](https://github.com/GoogleCloudPlatform/ml-pipeline-generator-python)
+
+[Github Actions ML Ops](https://mlops-github.com/)
+
+[Github Actions ML Ops abuse](https://docs.google.com/presentation/d/1aIwxTMPF8rm2sY3VAJypB5x7paYeCVMlpwYsSHrUl_E/edit) [repo](https://github.com/peckjon/coreml_ghactions)
+
+## Pipeline Tools
+
+[Kubeflow](https://www.kubeflow.org/)
+
+[MLflow](https://mlflow.org/)
+
+[Allegro.ai](https://allegro.ai/)
+
+[Cnvrg.io](https://cnvrg.io/)
+
+[mleap](https://mleap-docs.combust.ml/)
+
+[mlrun](https://www.iguazio.com/open-source/mlrun/)
+
+
+# Machine Learning Project Design Case Studies
+
+#### :newspaper: Articles
+[Case Studies](MLE_Case_Studies.md)
+
+[Machine Learning: The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
+
+[Introducing the Well Architected Framework for Machine Learning](https://aws.amazon.com/blogs/architecture/introducing-the-well-architected-framework-for-machine-learning/)
+
+[How do Data Science Workers Collaborate? Roles, Workflows, and Tools](https://arxiv.org/abs/2001.06684)
+
+[Software Engineering for Machine Learning: A Case Study](https://ieeexplore.ieee.org/document/8804457)
+
+[Spotify: The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
+
+[Toutiao (ByteDance/Tik-Tok) Recommendation System Design](https://leehanchung.github.io/2020-02-18-Tik-Tok-Algorithm/)
+
+[Paypal: On a Deep Journey towards Five Nines](https://www.infoq.com/presentations/journey-99999/)
+
+# Machine Learning Modeling
 
 Fundamentals of machine learning, including linear algebra, vector calculus, and statistics.
 
 
-### :books: Textbooks
+#### :books: Textbooks
 [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 [Concise Machine Learning](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
@@ -43,7 +111,7 @@ Fundamentals of machine learning, including linear algebra, vector calculus, and
 
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf): [[Codes](https://github.com/ctgk/PRML)]
 
-### :school: Courses
+#### :school: Courses
 [MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) :star:
 
 [MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) :star:
@@ -60,99 +128,71 @@ Fundamentals of machine learning, including linear algebra, vector calculus, and
 
 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
-# Machine Learning Project Design, Pipeline, and Deployment
-
-If a model was trained on a computer and no API is around to serve it, can it make an inference?
-
-
-### :newspaper: Articles
-[Case Studies](MLE_Case_Studies.md)
-
-[Machine Learning: The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
-
-[Introducing the Well Architected Framework for Machine Learning](https://aws.amazon.com/blogs/architecture/introducing-the-well-architected-framework-for-machine-learning/)
-
-[How do Data Science Workers Collaborate? Roles, Workflows, and Tools](https://arxiv.org/abs/2001.06684)
-
-[Software Engineering for Machine Learning: A Case Study](https://ieeexplore.ieee.org/document/8804457)
-
-[Spotify: The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
-
-[Toutiao (ByteDance/Tik-Tok) Recommendation System Design](https://leehanchung.github.io/2020-02-18-Tik-Tok-Algorithm/)
-
-### :school: Courses
-[Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/) :star:
-
-[Udemy: Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models) :star:
-
-[Udemy: The Complete Hands On Course To Master Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow)
-
-[Pipeline.ai: Hands-on with KubeFlow + Keras/TensorFlow 2.0 + TF Extended (TFX) + Kubernetes + PyTorch + XGBoost](https://www.youtube.com/watch?v=AaBqhGEwxXI)
-
-
-# Artificial Intelligence
+## Artificial Intelligence
 
 Machine learning is a sub field of Artificial Intelligence. These courses provides a much higher level understanding of the field of AI.
 
 
-### :books: Textbooks
+#### :books: Textbooks
 
 [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
 
-### :school: Courses
+#### :school: Courses
 
 [Berkeley CS188: Artificial Intelligence](https://edge.edx.org/courses/course-v1:BerkeleyX+CS188+2018_SP/course/) :star:
 
 [edX ColumbiaX: Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-ai): [[Reference Solutions](https://github.com/leehanchung/CSMM-101x-AI)]
 
-# Deep Learning Overview
+## Deep Learning Overview
 
 Basic overview for deep learning.
 
-### :school: Courses
+#### :school: Courses
 [Deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): [[Reference Solutions](https://github.com/leehanchung/deeplearning.ai)] :star:
 
 [Fast.ai Part 2](https://course.fast.ai/part2)
 
 
+## Specializations
 
-# Specializations
+### Recommendation Systems
 
-## Vision
 
-### :books: Textbooks
+### Vision
+
+#### :books: Textbooks
 [Deep Learning](http://www.deeplearningbook.org/)
 
-### :school: Courses
+#### :school: Courses
 [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/): [[Assignment 2 Solution](https://github.com/leehanchung/cs182/tree/master/assignment1), [Assignment 3 Solution](https://github.com/leehanchung/cs182/tree/master/assignment2)] :star:
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
 
-## Natural Language Processing
+### Natural Language Processing
 
 With languages models and sequential models, everyone can write like GPT-2.
 
-### :books: Textbook
+#### :books: Textbook
 [Deep Learning](http://www.deeplearningbook.org/)
 
 [Introduction to Natural Language Processing](https://www.amazon.com/Introduction-Language-Processing-Adaptive-Computation/dp/0262042843)
 
-### :school: Courses
+#### :school: Courses
 [Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/): [[Reference Solutions](https://github.com/leehanchung/cs224n)] :star:
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
 
-## Deep Reinforcement Learning
+### Deep Reinforcement Learning
 
-### :books: Textbook
+#### :books: Textbook
 
 [Reinforcement Learning](http://www.incompleteideas.net/book/the-book.html)
 
 [Deep Learning](http://www.deeplearningbook.org/)
 
-### :school: Courses
+#### :school: Courses
 [Coursera: Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) <= Recommended by [Richard Sutton](https://www.reddit.com/r/MachineLearning/comments/h940xb/what_is_the_best_way_to_learn_about_reinforcement/), the author of the de facto textbook on RL. :star:
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
@@ -168,25 +208,24 @@ With languages models and sequential models, everyone can write like GPT-2.
 [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
 
 
-## Unsupervised Learning and Generative Models
+### Unsupervised Learning and Generative Models
 
-### :school: Courses
+#### :school: Courses
 [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
 
 [Berkeley CS294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
 
-## Robotics :robot:
+### Robotics :robot:
 
-
-### :school: Courses
+#### :school: Courses
 [ColumbiaX: CSMM.103x Robotics](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.103x+1T2020/)
 
 [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
 
 
-## LICENSE
+# LICENSE
 All books, blogs, and courses are owned by their respective authors.
 
 You can use my compilation and my reference solutions under the open CC BY-SA 3.0 license and cite it as:
