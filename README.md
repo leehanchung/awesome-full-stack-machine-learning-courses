@@ -20,6 +20,14 @@ The curated resources will be focusing around the infamous hidden technical debt
 [dagster](https://docs.dagster.io/)
 
 
+# Machine Learning Model Training
+
+#### Case Studies
+[Rosebud.ai: Cost-efficient and scalable ML-experiments in AWS with spot-instances, Kubernetes and Horovod](http://blog.rosebud.ai/cost-efficient-and-scalable-model-training-in-aws/)
+
+#### Model Training Frameworks
+[Uber: Horovod](https://eng.uber.com/horovod/)
+
 # Machine Learning Model Serving
 
 If a model was trained on a computer and no API is around to serve it, can it make an inference?
@@ -65,9 +73,19 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 
 [Production Data Science](https://github.com/FilippoBovo/production-data-science)
 
+[GCP: Kubeflow Pipeline Tutorial](https://codelabs.developers.google.com/codelabs/cloud-kubeflow-pipelines-gis/)
+
 ## Continous Integration/Continous Delivery
 
-[GCP ML Pipeline Generator](https://github.com/GoogleCloudPlatform/ml-pipeline-generator-python)
+[Github: Github Actions Tutorial](https://lab.github.com/githubtraining/github-actions:-hello-world)
+
+[Github: Travis CI Tutorial](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci)
+
+[Github: Circle CI Tutorial](https://lab.github.com/githubtraining/continuous-integration-with-circleci)
+
+[GCP: ML Pipeline Generator](https://github.com/GoogleCloudPlatform/ml-pipeline-generator-python)
+
+[Azure: ML Ops Python](https://github.com/microsoft/MLOpsPython)
 
 [Github Actions ML Ops](https://mlops-github.com/)
 
@@ -94,7 +112,6 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 [Microsoft: The Team Data Science Process lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle)
 
 [Microsoft: Software Engineering for Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
-
 
 [Google: Machine Learning: The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
 
