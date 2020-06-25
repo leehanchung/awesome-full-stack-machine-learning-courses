@@ -19,6 +19,17 @@ The curated resources will be focusing around the infamous hidden technical debt
 
 [dagster](https://docs.dagster.io/)
 
+#### Data Labeling Tools
+[Snorkel](https://www.snorkel.org/)
+
+[Prodi.gy](https://prodi.gy/)
+
+[Doccano](https://github.com/doccano/doccano)
+
+#### Data Versioning Tools
+[Wandb Artifacts](https://docs.wandb.com/artifacts)
+
+[DVC](https://dvc.org/)
 
 # Machine Learning Model Training
 
@@ -27,6 +38,13 @@ The curated resources will be focusing around the infamous hidden technical debt
 
 #### Model Training Frameworks
 [Uber: Horovod](https://eng.uber.com/horovod/)
+
+#### Model Experiment Tracking Frameworks
+[Wandb Artifacts](https://docs.wandb.com/)
+
+[Comet ML](https://www.comet.ml/site/)
+
+[MLflow](https://mlflow.org/)
 
 # Machine Learning Model Serving
 
@@ -61,6 +79,12 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 
 [Uber: Neuropod](https://eng.uber.com/introducing-neuropod/)
 
+[OctoML](https://octoml.ai/)
+
+#### Model Versioning Tools
+[Wandb Artifacts](https://docs.wandb.com/artifacts)
+
+[DVC](https://dvc.org/)
 
 # Machine Learning Operations (MLOps)
 
@@ -74,6 +98,7 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 [Production Data Science](https://github.com/FilippoBovo/production-data-science)
 
 [GCP: Kubeflow Pipeline Tutorial](https://codelabs.developers.google.com/codelabs/cloud-kubeflow-pipelines-gis/)
+
 
 ## Continous Integration/Continous Delivery
 
@@ -91,6 +116,10 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 
 [Github Actions ML Ops abuse](https://docs.google.com/presentation/d/1aIwxTMPF8rm2sY3VAJypB5x7paYeCVMlpwYsSHrUl_E/edit) [repo](https://github.com/peckjon/coreml_ghactions)
 
+[Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
+
+[Argo](https://argoproj.github.io/)
+
 ## Pipeline Tools
 
 [Kubeflow](https://www.kubeflow.org/)
@@ -105,6 +134,8 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 
 [mlrun](https://www.iguazio.com/open-source/mlrun/)
 
+[Dessa](https://www.dessa.com/)
+
 
 # Machine Learning Project Design Case Studies
 
@@ -116,6 +147,8 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 [Google: Machine Learning: The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
 
 [Amazon: Introducing the Well Architected Framework for Machine Learning](https://aws.amazon.com/blogs/architecture/introducing-the-well-architected-framework-for-machine-learning/)
+
+[Uber: Scaling Machine Learning Model as a Service](http://proceedings.mlr.press/v67/li17a.html)
 
 [How do Data Science Workers Collaborate? Roles, Workflows, and Tools](https://arxiv.org/abs/2001.06684)
 
@@ -131,6 +164,32 @@ If a model was trained on a computer and no API is around to serve it, can it ma
 
 [Paypal: On a Deep Journey towards Five Nines](https://www.infoq.com/presentations/journey-99999/)
 
+[Instacart: Building A Data Science Product in 10 Days](https://tech.instacart.com/building-a-data-science-product-in-10-days-d2f4688567b0)
+
+
+# Computer Science
+
+Basic computer science skill is required for machine learning engineering.
+
+### :books: Textbooks
+[Grokking Algorithms](https://github.com/KevinOfNeu/ebooks/blob/master/Grokking%20Algorithms.pdf)
+
+[Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
+
+### :school: Courses
+[MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/) :star:
+
+[Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+
+[edX MITX: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-4) :star:
+
+[edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) 
+
+
+# Mathematics
+
+### :books: Textbooks
+[The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
 
 # Machine Learning Modeling
 
@@ -257,25 +316,6 @@ With languages models and sequential models, everyone can write like GPT-2.
 [ColumbiaX: CSMM.103x Robotics](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.103x+1T2020/)
 
 [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
-
-
-# Computer Science
-
-Basic computer science skill is required for machine learning engineering.
-
-### :books: Textbooks
-[Grokking Algorithms](https://github.com/KevinOfNeu/ebooks/blob/master/Grokking%20Algorithms.pdf)
-
-[Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
-
-### :school: Courses
-[MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/) :star:
-
-[Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
-
-[edX MITX: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-4) :star:
-
-[edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) 
 
 
 # LICENSE
