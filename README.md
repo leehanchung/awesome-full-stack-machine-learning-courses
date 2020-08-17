@@ -4,7 +4,7 @@ This is curated list of publicly accessible machine learning coureses from top u
 Special thanks to the schools to make their course videos and assignments publicly available.
 
 
-# Computer Science
+## Computer Science
 
 Foundational computer science, Python, and SQL skills for machine learning engineering.
 
@@ -25,9 +25,24 @@ Foundational computer science, Python, and SQL skills for machine learning engin
 [Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 
+## Math and Statistics :heavy_plus_sign: :heavy_minus_sign: :heavy_multiplication_x: :heavy_division_sign:
+Linear algebra and statistics
+
+#### :school: Courses
+[MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) :star:
+
+[MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) :star:
+
+[Stanford Stats216: Statiscal Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) :star:
+
+[CalTech: Learning From Data](https://work.caltech.edu/telecourse.html)
+
+
 ## Artificial Intelligence
 
 Machine learning is a sub field of Artificial Intelligence. These courses provides a much higher level understanding of the field of AI.
+
+![artificial intelligence](images/artificial_intelligence.png)
 
 #### :books: Textbooks
 
@@ -42,14 +57,14 @@ Machine learning is a sub field of Artificial Intelligence. These courses provid
 
 ## Machine Learning
 
-Linear algebra, statistics, and machine learning courses.
+Machine learning.
+
+![machine learning](images/machine_learning.png)
 
 #### :books: Textbooks
 [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 [Concise Machine Learning](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
-
-[The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
 
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
@@ -58,14 +73,6 @@ Linear algebra, statistics, and machine learning courses.
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf): [[Codes](https://github.com/ctgk/PRML)]
 
 #### :school: Courses
-[MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) :star:
-
-[MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) :star:
-
-[Stanford Stats216: Statiscal Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) :star:
-
-[CalTech: Learning From Data](https://work.caltech.edu/telecourse.html)
-
 [edX ColumbiaX: Machine Learning](https://www.edx.org/course/machine-learning)
 
 [Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229)
@@ -93,8 +100,12 @@ These courses helps you bridge the gap from training machine learning models to 
 
 Basic overview for deep learning.
 
+![deep learning](images/deep_learning.png)
+
 #### :books: Textbooks
 [Deep Learning](http://www.deeplearningbook.org/)
+
+[The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
 
 #### :school: Courses
 [Deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): [[Reference Solutions](https://github.com/leehanchung/deeplearning.ai)] :star:
@@ -117,6 +128,8 @@ Basic overview for deep learning.
 
 With languages models and sequential models, everyone can write like GPT-3.
 
+![nlp](images/nlp.png)
+
 #### :books: Textbook
 [Deep Learning](http://www.deeplearningbook.org/)
 
@@ -127,8 +140,14 @@ With languages models and sequential models, everyone can write like GPT-3.
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
+[Deeplearning.ai Natural Language Processing Specialization](https://www.deeplearning.ai/natural-language-processing-specialization/) [[Reference Solutions](https://github.com/leehanchung/deeplearning.ai-nlp-specialization)]
+
 
 ### Vision
+
+Neural nets cannot solve all vision problems, yet.
+
+![computer vision](images/computer_vision.png)
 
 #### :books: Textbooks
 [Deep Learning](http://www.deeplearningbook.org/)
@@ -137,6 +156,14 @@ With languages models and sequential models, everyone can write like GPT-3.
 [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/): [[Assignment 2 Solution](https://github.com/leehanchung/cs182/tree/master/assignment1), [Assignment 3 Solution](https://github.com/leehanchung/cs182/tree/master/assignment2)] :star:
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1478831/pages/cs182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2019): [[Reference Solutions](https://github.com/leehanchung/cs182)]
+
+
+### Unsupervised Learning and Generative Models
+
+#### :school: Courses
+[Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
+
+[Berkeley CS294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
 
 ### Reinforcement Learning
@@ -163,15 +190,11 @@ With languages models and sequential models, everyone can write like GPT-3.
 [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
 
 
-### Unsupervised Learning and Generative Models
-
-#### :school: Courses
-[Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
-
-[Berkeley CS294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
-
-
 ### Robotics :robot:
+
+Quaternions, quaternions everywhere. And gradients.
+
+![robotics](images/robotics.png)
 
 #### :school: Courses
 [ColumbiaX: CSMM.103x Robotics](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.103x+1T2020/)
