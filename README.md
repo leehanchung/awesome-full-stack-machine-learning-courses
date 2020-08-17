@@ -25,7 +25,7 @@ Foundational computer science, Python, and SQL skills for machine learning engin
 [Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 
-## Math and Statistics :heavy_plus_sign: :heavy_minus_sign: :heavy_multiplication_x: :heavy_division_sign:
+## Math and Statistics :heavy_plus_sign::heavy_minus_sign::heavy_multiplication_x::heavy_division_sign:
 Linear algebra and statistics
 
 #### :school: Courses
