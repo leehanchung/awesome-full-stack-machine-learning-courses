@@ -105,9 +105,13 @@ Basic overview for deep learning.
 #### :books: Textbooks
 [Deep Learning](http://www.deeplearningbook.org/)
 
+[Dive into Deep Learning](http://d2l.ai/index.html)
+
 [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
 
 #### :school: Courses
+[Berkeley Stats 157: Introduction to Deep Learning](http://courses.d2l.ai/berkeley-stat-157/syllabus.html)
+
 [Deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): [[Reference Solutions](https://github.com/leehanchung/deeplearning.ai)] :star:
 
 [Fast.ai Part 2](https://course.fast.ai/part2)
@@ -120,9 +124,11 @@ Basic overview for deep learning.
 #### :books: Textbooks
 [Mining of Massive Datasets](http://www.mmds.org/)
 
-#### :school: Courses
-[Stanford CS246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
+[Dive into Deep Learning: Chapter 16 Recommender Systems](http://d2l.ai/chapter_recommender-systems/index.html)
 
+#### :school: Courses
+
+[Stanford CS246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 
 ### Natural Language Processing
 
