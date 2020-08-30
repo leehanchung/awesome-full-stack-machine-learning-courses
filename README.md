@@ -25,8 +25,10 @@ Foundational computer science, Python, and SQL skills for machine learning engin
 [Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 
-## Math and Statistics :heavy_plus_sign::heavy_minus_sign::heavy_multiplication_x::heavy_division_sign:
+## Math and Statistics
 Linear algebra and statistics
+
+![math and machine learning](images/math_ml.jpg)
 
 #### :school: Courses
 [MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) :star:
@@ -40,7 +42,7 @@ Linear algebra and statistics
 
 ## Artificial Intelligence
 
-Machine learning is a sub field of Artificial Intelligence. These courses provides a much higher level understanding of the field of AI.
+Artificial Intelligence is the superset of Machine Learning. These courses provides a much higher level understanding of the field of AI, including searching, planning, logic, constrain optimization, and machine learning.
 
 ![artificial intelligence](images/artificial_intelligence.png)
 
@@ -84,6 +86,8 @@ Machine learning.
 
 These courses helps you bridge the gap from training machine learning models to deploy AI systems in the real world.
 
+![production](images/production.jpg)
+
 #### :school: Courses
 [Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/) :star:
 
@@ -117,11 +121,26 @@ Basic overview for deep learning.
 
 ### Recommendation Systems
 
+Recommendation system is used when users do not know what they want and cannot use keywords to describe needs.
+
+![youtube recommender](images/nobody-youtubes-recommendation-system.png)
+
 #### :books: Textbooks
 [Mining of Massive Datasets](http://www.mmds.org/)
 
 #### :school: Courses
 [Stanford CS246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
+
+
+### Information Retrieval and Web Search
+
+Search and Ranking is used when users have specific needs and can use keywords to describe their needs.
+
+#### :books: Textbooks
+[Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
+
+#### :school: Courses
+[Stanford CS276: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/)
 
 
 ### Natural Language Processing
@@ -160,6 +179,8 @@ Neural nets cannot solve all vision problems, yet.
 
 ### Unsupervised Learning and Generative Models
 
+![gan](images/gan.png)
+
 #### :school: Courses
 [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
 
@@ -167,6 +188,8 @@ Neural nets cannot solve all vision problems, yet.
 
 
 ### Reinforcement Learning
+
+![rl](images/rl.jpg)
 
 #### :books: Textbook
 
