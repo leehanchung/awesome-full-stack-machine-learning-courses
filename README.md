@@ -132,6 +132,8 @@ Recommendation system is used when users do not know what they want and cannot u
 #### :books: Textbooks
 [Mining of Massive Datasets](http://www.mmds.org/)
 
+[Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+
 [Dive into Deep Learning: Chapter 16 Recommender Systems](http://d2l.ai/chapter_recommender-systems/index.html)
 
 #### :school: Courses
@@ -159,6 +161,8 @@ With languages models and sequential models, everyone can write like GPT-3.
 [Deep Learning](http://www.deeplearningbook.org/)
 
 [Introduction to Natural Language Processing](https://www.amazon.com/Introduction-Language-Processing-Adaptive-Computation/dp/0262042843)
+
+[Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 
 #### :school: Courses
 [Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/): [[Reference Solutions](https://github.com/leehanchung/cs224n)] :star:
