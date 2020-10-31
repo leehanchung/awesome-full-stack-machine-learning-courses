@@ -81,6 +81,8 @@ Machine learning.
 
 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
+[Berkeley CS294: Fairness in Machine Learning](https://fairmlclass.github.io/)
+
 
 ## Full Stack Machine Learning
 
