@@ -28,6 +28,7 @@ Foundational computer science, Python, and SQL skills for machine learning engin
 
 [Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
+[PostgreSQL Exercises](https://pgexercises.com/)
 
 ## Math and Statistics
 Linear algebra and statistics
