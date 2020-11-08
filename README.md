@@ -13,6 +13,10 @@ Foundational computer science, Python, and SQL skills for machine learning engin
 
 [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 
+[Python Design Patterns](https://github.com/faif/python-patterns)
+
+[Python3 Patterns](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/)
+
 ### :school: Courses
 [MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/) :star:
 
