@@ -84,7 +84,9 @@ Machine learning.
 
 [Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229)
 
-[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+[Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+
+[Google: AI Education](https://ai.google/education/)
 
 [Berkeley CS294: Fairness in Machine Learning](https://fairmlclass.github.io/)
 
