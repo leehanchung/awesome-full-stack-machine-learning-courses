@@ -127,6 +127,8 @@ Basic overview for deep learning.
 
 [Deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): [[Reference Solutions](https://github.com/leehanchung/deeplearning.ai)] :star:
 
+[NYU: Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
+
 [Fast.ai Part 2](https://course.fast.ai/part2)
 
 
