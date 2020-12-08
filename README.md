@@ -91,7 +91,7 @@ Machine learning.
 [Berkeley CS294: Fairness in Machine Learning](https://fairmlclass.github.io/)
 
 
-## Full Stack Machine Learning
+## Machine Learning Engineering
 
 These courses helps you bridge the gap from training machine learning models to deploy AI systems in the real world.
 
@@ -99,6 +99,10 @@ These courses helps you bridge the gap from training machine learning models to 
 
 #### :school: Courses
 [Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/) :star:
+
+[Andrew Ng: Bridging AI's Proof-of-Concept to Production Gap](https://www.youtube.com/watch?v=tsPuVAMaADY)
+
+[Facebook Field Guide to Machine Learning](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 
 [Udemy: Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models) :star:
 
