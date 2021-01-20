@@ -3,7 +3,6 @@ This is curated list of publicly accessible machine learning coureses from top u
 
 Special thanks to the schools to make their course videos and assignments publicly available.
 
-
 ## Computer Science
 
 Foundational computer science, Python, and SQL skills for machine learning engineering.
@@ -16,6 +15,8 @@ Foundational computer science, Python, and SQL skills for machine learning engin
 [Python Design Patterns](https://github.com/faif/python-patterns)
 
 [Python3 Patterns](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/)
+
+[Design Patterns: Elements of Reusable Object-Oriented Software 1st Edition](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-dp-0201633612/dp/0201633612)
 
 ### :school: Courses
 [MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/) :star:
@@ -43,6 +44,8 @@ Linear algebra and statistics
 [Stanford Stats216: Statiscal Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) :star:
 
 [CalTech: Learning From Data](https://work.caltech.edu/telecourse.html)
+
+[Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 
 
 ## Artificial Intelligence
