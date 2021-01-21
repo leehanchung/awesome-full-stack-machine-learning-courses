@@ -240,6 +240,7 @@ Neural nets cannot solve all vision problems, yet.
 
 [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
 
+IDS at Stanford RL forum [Video 1](https://stanford.zoom.us/rec/share/3Xd-OxnFkFfXV3UBRGo68iScSbckWF-3OKuVQkEQc_igSL9JRyuwDvgXDArMHtFz.6s3GFT1XBvZf7eis?startTime=1610388191000) [Video 2](https://stanford.zoom.us/rec/share/8Ex0ug8ueM0G3DLAW4XLYTlhgV812fOkL5aUYjxes6JFysWglqa-FCNryj-GUn2a.21yA0Q1WPwhwZMgF?startTime=1610560965000) [Slides](https://drive.google.com/file/d/1KSFVptieJ-b115mLqAYfp2pVhJZ02qWh/view?usp=sharing)
 
 ### Robotics :robot:
 
