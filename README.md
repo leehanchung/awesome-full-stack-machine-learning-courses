@@ -100,6 +100,9 @@ These courses helps you bridge the gap from training machine learning models to 
 
 ![production](images/production.jpg)
 
+#### :books: Textbooks
+[Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
+
 #### :school: Courses
 [Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/) :star:
 
