@@ -82,6 +82,8 @@ Machine learning.
 
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf): [[Codes](https://github.com/ctgk/PRML)]
 
+[Cross-Industry Process for Data Mining methodology](ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/18.0/en/ModelerCRISPDM.pdf)
+
 #### :school: Courses
 [edX ColumbiaX: Machine Learning](https://www.edx.org/course/machine-learning)
 
