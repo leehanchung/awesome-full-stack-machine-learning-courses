@@ -105,6 +105,8 @@ These courses helps you bridge the gap from training machine learning models to 
 #### :books: Textbooks
 [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
 
+[Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/a-simple-example.html)
+
 #### :school: Courses
 [Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/) :star:
 
