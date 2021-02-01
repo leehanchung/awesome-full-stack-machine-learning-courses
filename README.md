@@ -107,6 +107,8 @@ These courses helps you bridge the gap from training machine learning models to 
 
 [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/a-simple-example.html)
 
+[Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
+
 #### :school: Courses
 [Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/) :star:
 
