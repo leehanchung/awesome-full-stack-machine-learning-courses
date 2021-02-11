@@ -85,15 +85,18 @@ Machine learning.
 [Cross-Industry Process for Data Mining methodology](ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/18.0/en/ModelerCRISPDM.pdf)
 
 #### :school: Courses
+
+[Columbia COMS W4995: Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) [:tv:](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
+
+[Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229) [:tv:](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
 [edX ColumbiaX: Machine Learning](https://www.edx.org/course/machine-learning)
 
-[Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229)
+[Berkeley CS294: Fairness in Machine Learning](https://fairmlclass.github.io/)
 
 [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 [Google: AI Education](https://ai.google/education/)
-
-[Berkeley CS294: Fairness in Machine Learning](https://fairmlclass.github.io/)
 
 
 ## Machine Learning Engineering
