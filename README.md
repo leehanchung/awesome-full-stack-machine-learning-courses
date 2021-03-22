@@ -98,6 +98,8 @@ Machine learning.
 
 [Google: AI Education](https://ai.google/education/)
 
+[Cornell Tech CS5785: Applied Machine Learning](https://cornelltech.github.io/cs5785-fall-2019/) [:tv:](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+
 
 ## Machine Learning Engineering
 
