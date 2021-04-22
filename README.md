@@ -100,6 +100,7 @@ Machine learning.
 
 [Cornell Tech CS5785: Applied Machine Learning](https://cornelltech.github.io/cs5785-fall-2019/) [:tv:](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 
+[AutoML - Automated Machine Learning](https://ki-campus.org/courses/automl-luh2021)
 
 ## Machine Learning Engineering
 
