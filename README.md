@@ -86,9 +86,9 @@ Machine learning.
 
 #### :school: Courses
 
-[Columbia COMS W4995: Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) [:tv:](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
-
 [Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229) [:tv:](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
+[Columbia COMS W4995: Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) [:tv:](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
 
 [edX ColumbiaX: Machine Learning](https://www.edx.org/course/machine-learning)
 
@@ -97,6 +97,8 @@ Machine learning.
 [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 [Google: AI Education](https://ai.google/education/)
+
+[Google: Applied Machine Learning Intensive](https://github.com/google/applied-machine-learning-intensive)
 
 [Cornell Tech CS5785: Applied Machine Learning](https://cornelltech.github.io/cs5785-fall-2019/) [:tv:](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 
