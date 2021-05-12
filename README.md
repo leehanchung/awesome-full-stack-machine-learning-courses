@@ -23,13 +23,15 @@ Foundational computer science, Python, and SQL skills for machine learning engin
 
 [edX MITX: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-4) :star:
 
-[edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) 
+[edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
 [SQL for Data Analysis](https://classroom.udacity.com/courses/ud198)
 
 [Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 [PostgreSQL Exercises](https://pgexercises.com/)
+
+[U Waterloo: CS794: Optimization for Data Science](https://cs.uwaterloo.ca/~y328yu/mycourses/794-2020/lecture.html)
 
 ## Math and Statistics
 Linear algebra and statistics
@@ -46,7 +48,6 @@ Linear algebra and statistics
 [CalTech: Learning From Data](https://work.caltech.edu/telecourse.html)
 
 [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
-
 
 ## Artificial Intelligence
 
