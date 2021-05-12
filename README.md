@@ -116,6 +116,8 @@ These courses helps you bridge the gap from training machine learning models to 
 #### :books: Textbooks
 [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
 
+[The Twelve Factors App](https://12factor.net/)
+
 [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/a-simple-example.html)
 
 [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
