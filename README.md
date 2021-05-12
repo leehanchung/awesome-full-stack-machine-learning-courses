@@ -38,6 +38,10 @@ Linear algebra and statistics
 
 ![math and machine learning](images/math_ml.jpg)
 
+### :books: Textbooks
+
+[NIST Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/)
+
 #### :school: Courses
 [MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) :star:
 
