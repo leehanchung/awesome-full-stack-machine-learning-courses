@@ -120,6 +120,10 @@ These courses helps you bridge the gap from training machine learning models to 
 #### :books: Textbooks
 [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
 
+[Microsoft Commercial Software Engineering ML Fundamentals](https://microsoft.github.io/code-with-engineering-playbook/ml-fundamentals/)
+
+[Google Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml)
+
 [The Twelve Factors App](https://12factor.net/)
 
 [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/a-simple-example.html)
