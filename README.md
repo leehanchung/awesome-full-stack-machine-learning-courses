@@ -51,6 +51,8 @@ Linear algebra and statistics
 
 [CalTech: Learning From Data](https://work.caltech.edu/telecourse.html)
 
+[A Students Guide to Bayesian Statistics](https://www.youtube.com/watch?v=P_og8H-VkIY&list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG)
+
 [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 
 ## Artificial Intelligence
