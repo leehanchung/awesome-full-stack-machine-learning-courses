@@ -137,6 +137,8 @@ These courses helps you bridge the gap from training machine learning models to 
 #### :school: Courses
 [Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/) :star:
 
+[CMU: Machine Learning in Production](https://ckaestne.github.io/seai/S2021/) [github](https://github.com/ckaestne/seai/)
+
 [Andrew Ng: Bridging AI's Proof-of-Concept to Production Gap](https://www.youtube.com/watch?v=tsPuVAMaADY)
 
 [Facebook Field Guide to Machine Learning](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
