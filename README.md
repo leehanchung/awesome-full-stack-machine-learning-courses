@@ -204,6 +204,7 @@ Search and Ranking is used when users have specific needs and can use keywords t
 #### :school: Courses
 [Stanford CS276: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/)
 
+[Information Retrieval](https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS1718) [:tv:](https://www.youtube.com/watch?v=QjA7ujQsL0M&list=PLfgMNKpBVg4V8GtMB7eUrTyvITri8WF7i)
 
 ### Natural Language Processing
 
