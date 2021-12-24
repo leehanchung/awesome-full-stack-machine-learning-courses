@@ -224,6 +224,8 @@ With languages models and sequential models, everyone can write like GPT-3.
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://cs182sp21.github.io/): [:tv:](https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
+[NYU: DS-GA 1011 Natural Language Processing with Representation Learnin] (https://www.youtube.com/playlist?list=PLdH9u0f1XKW_s-c8EcgJpn_HJz5Jj1IRf)
+
 [Deeplearning.ai Natural Language Processing Specialization](https://www.deeplearning.ai/natural-language-processing-specialization/) [[Reference Solutions](https://github.com/leehanchung/deeplearning.ai-nlp-specialization)]
 
 
