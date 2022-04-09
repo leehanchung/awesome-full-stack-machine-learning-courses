@@ -33,6 +33,10 @@ Foundational computer science, Python, and SQL skills for machine learning engin
 
 [U Waterloo: CS794: Optimization for Data Science](https://cs.uwaterloo.ca/~y328yu/mycourses/794-2020/lecture.html)
 
+[Berkeley CS 170: Efficient Algorithms and Intractable Problems](https://cs170.org/)
+
+[Berkeley CS 294-165: Sketching Algorithms](https://www.sketchingbigdata.org/fall20/)
+
 ## Math and Statistics
 Linear algebra and statistics
 
