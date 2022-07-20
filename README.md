@@ -172,6 +172,8 @@ Basic overview for deep learning.
 #### :school: Courses
 [Berkeley CS 182: Designing, Visualizing and Understanding Deep Neural Networks](https://cs182sp21.github.io/)
 
+[Stanford CS25: Transformers](https://web.stanford.edu/class/cs25/) [:tv:](https://www.youtube.com/watch?v=P127jhj-8-Y&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+
 [Deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): [[Reference Solutions](https://github.com/leehanchung/deeplearning.ai)] :star:
 
 [NYU: Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
