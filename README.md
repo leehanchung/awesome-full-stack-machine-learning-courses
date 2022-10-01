@@ -27,8 +27,6 @@ Foundational computer science, Python, and SQL skills for machine learning engin
 
 [SQL for Data Analysis](https://classroom.udacity.com/courses/ud198)
 
-[Corey Schafer Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
-
 [PostgreSQL Exercises](https://pgexercises.com/)
 
 [U Waterloo: CS794: Optimization for Data Science](https://cs.uwaterloo.ca/~y328yu/mycourses/794-2020/lecture.html)
@@ -97,6 +95,8 @@ Machine learning.
 
 #### :school: Courses
 
+[Harvard CS 109A Data Science](https://harvard-iacs.github.io/2019-CS109A/pages/materials.html)
+
 [Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229) [:tv:](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 [Columbia COMS W4995: Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) [:tv:](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
@@ -149,8 +149,6 @@ These courses helps you bridge the gap from training machine learning models to 
 
 [Udemy: Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models) :star:
 
-[Pipeline.ai: Hands-on with KubeFlow + Keras/TensorFlow 2.0 + TF Extended (TFX) + Kubernetes + PyTorch + XGBoost](https://www.youtube.com/watch?v=AaBqhGEwxXI)
-
 [Spark](https://classroom.udacity.com/courses/ud2002)
 
 [Udemy: The Complete Hands On Course To Master Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow)
@@ -172,13 +170,11 @@ Basic overview for deep learning.
 #### :school: Courses
 [Berkeley CS 182: Designing, Visualizing and Understanding Deep Neural Networks](https://cs182sp21.github.io/)
 
-[Stanford CS25: Transformers](https://web.stanford.edu/class/cs25/) [:tv:](https://www.youtube.com/watch?v=P127jhj-8-Y&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+[Stanford CS 25: Transformers](https://web.stanford.edu/class/cs25/) [:tv:](https://www.youtube.com/watch?v=P127jhj-8-Y&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 
 [Deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning): [[Reference Solutions](https://github.com/leehanchung/deeplearning.ai)] :star:
 
 [NYU: Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
-
-[Fast.ai Part 2](https://course.fast.ai/part2)
 
 
 ## Specializations
