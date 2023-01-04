@@ -6,19 +6,19 @@ Special thanks to the schools to make their course videos and assignments public
 ## TL;DR
 Bare minimum list of courses to go through for basic knowledge in machine learning engineering.
 
-[MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/) :star:
+[MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/)
 
 [edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
-[MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) :star:
+[MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 
-[Columbia COMS W4995: Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) [:tv:](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM) :star:
+[Columbia COMS W4995: Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) [:tv:](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
 
-[MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) :star:
+[MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://cs182sp21.github.io/): [:tv:](https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
-[Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/) :star:
+[Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 
 ## Computer Science
 
@@ -112,11 +112,11 @@ Machine learning.
 
 #### :school: Courses
 
-[Harvard CS 109A Data Science](https://harvard-iacs.github.io/2019-CS109A/pages/materials.html)
+[Columbia COMS W4995: Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) [:tv:](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM) :star:
 
 [Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229) [:tv:](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
-[Columbia COMS W4995: Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) [:tv:](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM) :star:
+[Harvard CS 109A Data Science](https://harvard-iacs.github.io/2019-CS109A/pages/materials.html)
 
 [edX ColumbiaX: Machine Learning](https://www.edx.org/course/machine-learning)
 
@@ -245,7 +245,7 @@ With languages models and sequential models, everyone can write like GPT-3.
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://cs182sp21.github.io/): [:tv:](https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
-[NYU: DS-GA 1011 Natural Language Processing with Representation Learnin] (https://www.youtube.com/playlist?list=PLdH9u0f1XKW_s-c8EcgJpn_HJz5Jj1IRf)
+[NYU: DS-GA 1011 Natural Language Processing with Representation Learnin](https://www.youtube.com/playlist?list=PLdH9u0f1XKW_s-c8EcgJpn_HJz5Jj1IRf)
 
 [Deeplearning.ai Natural Language Processing Specialization](https://www.deeplearning.ai/natural-language-processing-specialization/) [[Reference Solutions](https://github.com/leehanchung/deeplearning.ai-nlp-specialization)]
 
@@ -262,7 +262,7 @@ Neural nets cannot solve all vision problems, yet.
 #### :school: Courses
 [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/): [[Assignment 2 Solution](https://github.com/leehanchung/cs182/tree/master/assignment1), [Assignment 3 Solution](https://github.com/leehanchung/cs182/tree/master/assignment2)] :star:
 
-[Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://cs182sp21.github.io/): [:tv:](https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) [[[Reference Solutions](https://github.com/leehanchung/cs182)]
+[Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://cs182sp21.github.io/): [:tv:](https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) [[Reference Solutions](https://github.com/leehanchung/cs182)]
 
 
 ### Unsupervised Learning and Generative Models
