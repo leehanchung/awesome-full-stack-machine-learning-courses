@@ -4,7 +4,7 @@ This is curated list of publicly accessible machine learning coureses from top u
 Special thanks to the schools to make their course videos and assignments publicly available.
 
 ## TL;DR
-Minimum list of courses to get started.
+Bare minimum list of courses to go through for basic knowledge in machine learning engineering.
 
 [MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/) :star:
 
