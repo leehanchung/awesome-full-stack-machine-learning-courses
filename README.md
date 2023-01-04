@@ -99,7 +99,7 @@ Machine learning.
 
 [Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229) [:tv:](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
-[Columbia COMS W4995: Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) [:tv:](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
+[Columbia COMS W4995: Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) [:tv:](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM) :star:
 
 [edX ColumbiaX: Machine Learning](https://www.edx.org/course/machine-learning)
 
