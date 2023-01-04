@@ -7,11 +7,17 @@ Special thanks to the schools to make their course videos and assignments public
 Minimum list of courses to get started.
 
 [MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/) :star:
+
 [edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+
 [MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) :star:
+
 [Columbia COMS W4995: Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) [:tv:](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM) :star:
+
 [MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) :star:
+
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://cs182sp21.github.io/): [:tv:](https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) [[[Reference Solutions](https://github.com/leehanchung/cs182)]
+
 [Berkeley: Full Stack Deep Learning](https://fullstackdeeplearning.com/) :star:
 
 ## Computer Science
