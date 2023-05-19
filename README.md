@@ -275,6 +275,12 @@ Neural nets cannot solve all vision problems, yet.
 [Berkeley CS294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
 
+### Foundation Models
+![llm](images/llm.png)
+[Stanford CS234: Large Language Models (Winter 2022)](https://stanford-cs324.github.io/winter2022/)
+
+[Stanford CS234: Advances in Foundation Models (Winter 2023)](https://stanford-cs324.github.io/winter2023/)
+
 ### Reinforcement Learning
 
 ![rl](images/rl.jpg)
@@ -324,6 +330,6 @@ You can use my compilation and my reference solutions under the open CC BY-SA 3.
   title = {Full Stack Machine Learning Engineering Courses},
   year = {2020},
   howpublished = {Github Repo},
-  url = {https://github.com/full_stack_machine_learning_engineering_courses}
+  url = {https://github.com/awesome-full-stack-machine-learning-courses}
 }
 ```
