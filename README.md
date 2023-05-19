@@ -276,10 +276,13 @@ Neural nets cannot solve all vision problems, yet.
 
 
 ### Foundation Models
-![llm](images/llm.png)
+
+![llm](images/FoO-U_gaYAAIlPZ.jpg)
+
 [Stanford CS234: Large Language Models (Winter 2022)](https://stanford-cs324.github.io/winter2022/)
 
 [Stanford CS234: Advances in Foundation Models (Winter 2023)](https://stanford-cs324.github.io/winter2023/)
+
 
 ### Reinforcement Learning
 
