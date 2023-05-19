@@ -1,5 +1,5 @@
 # Awesome Full Stack Machine Learning Engineering Courses
-This is curated list of publicly accessible machine learning coureses from top universities such as Berkeley, Harvard, Stanford, and MIT. It also includes machine learning project case studies from large and experienced companies. THe list is broken down by topics and areas of specializations. Python is the preferred language of choice as it covers end-to-end machine learning engineering.
+This is curated list of publicly accessible machine learning courses from top universities such as Berkeley, Harvard, Stanford, and MIT. It also includes machine learning project case studies from large and experienced companies. The list is broken down by topics and areas of specializations. Python is the preferred language of choice as it covers end-to-end machine learning engineering.
 
 Special thanks to the schools to make their course videos and assignments publicly available.
 
