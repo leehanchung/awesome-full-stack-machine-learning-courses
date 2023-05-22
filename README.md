@@ -52,6 +52,8 @@ Foundational computer science, Python, and SQL skills for machine learning engin
 
 [Berkeley CS 294-165: Sketching Algorithms](https://www.sketchingbigdata.org/fall20/)
 
+[MIT 6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2020/) [:tv:](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+
 ## Math and Statistics
 Linear algebra and statistics
 
