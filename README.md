@@ -228,7 +228,7 @@ Search and Ranking is used when users have specific needs and can use keywords t
 
 [Stanford CS224U: Natural Language Understanding - NLU and Information Retrieval](https://www.youtube.com/watch?v=Bn6RNrwwiI0&list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ&index=38)
 
-[TU Wein: Crash Course IR - Fundamentals](https://www.youtube.com/watch?v=ZC94KSDd4DM&list=PLosJChMwPtiwqJGsc9c33Ho2P-qgoeN5I&index=60)
+[TU Wein: Crash Course IR - Fundamentals](https://www.youtube.com/watch?v=6FNISntK6Sk&list=PLSg1mducmHTPZPDoal4m59pPxxsceXF-y)
 
 [UIUC: Text Retrieval and Search Engines](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Jk8mpFc_RPzn2obhotfDO)
 
