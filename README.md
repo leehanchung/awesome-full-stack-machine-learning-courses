@@ -3,6 +3,19 @@ This is curated list of publicly accessible machine learning courses from top un
 
 Special thanks to the schools to make their course videos and assignments publicly available.
 
+## Shortest Path to LLM / Agents
+Bare minimum list of courses to go through for basic background knowledge in LLM and AI Agents
+
+[Berkeley CS188: Artificial Intelligence](https://edge.edx.org/courses/course-v1:BerkeleyX+CS188+2018_SP/course/) :star:
+
+[Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/): [[Assignment 2 Solution](https://github.com/leehanchung/cs182/tree/master/assignment1), [Assignment 3 Solution](https://github.com/leehanchung/cs182/tree/master/assignment2)] :star:
+
+[Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/): [[Reference Solutions](https://github.com/leehanchung/cs224n)] :star:
+
+[Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) :star:
+
+[Stanford: CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/) :star:
+
 ## TL;DR
 Bare minimum list of courses to go through for basic knowledge in machine learning engineering.
 
@@ -255,6 +268,8 @@ With languages models and sequential models, everyone can write like GPT-3.
 [Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/): [[Reference Solutions](https://github.com/leehanchung/cs224n)] :star:
 
 [Berkeley CS182: Designing, Visualizing, and Understanding Deep Neural Networks](https://cs182sp21.github.io/): [:tv:](https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) [[Reference Solutions](https://github.com/leehanchung/cs182)]
+
+[Stanford: CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/) :star:
 
 [NYU: DS-GA 1011 Natural Language Processing with Representation Learnin](https://www.youtube.com/playlist?list=PLdH9u0f1XKW_s-c8EcgJpn_HJz5Jj1IRf)
 
