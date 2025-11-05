@@ -19,7 +19,7 @@ Bare minimum list of courses to go through for basic background knowledge in LLM
 ## TL;DR
 Bare minimum list of courses to go through for basic knowledge in machine learning engineering.
 
-[MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/)
+[MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 [edX Harvard: CS50x: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
@@ -49,7 +49,7 @@ Foundational computer science, Python, and SQL skills for machine learning engin
 [Design Patterns: Elements of Reusable Object-Oriented Software 1st Edition](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-dp-0201633612/dp/0201633612)
 
 ### :school: Courses
-[MIT: The Missing Sememster of Your CS Education](https://missing.csail.mit.edu/) :star:
+[MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) :star:
 
 [edX MITX: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-4) :star:
 
@@ -76,7 +76,7 @@ Linear algebra and statistics
 
 [NIST Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/)
 
-#### :school: Courses
+### :school: Courses
 [MIT 18.05: Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) :star:
 
 [MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) :star:
@@ -147,7 +147,7 @@ Machine learning.
 
 [Probabilistic Machine Learning (Summer 2020)](https://uni-tuebingen.de/de/180804) [:tv:](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 
-[AutoML - Automated Machine Learning](https://ki-campus.org/courses/automl-luh2021)\
+[AutoML - Automated Machine Learning](https://ki-campus.org/courses/automl-luh2021)
 
 [MIT: Data Centric AI](https://dcai.csail.mit.edu/)
 
@@ -189,6 +189,21 @@ These courses helps you bridge the gap from training machine learning models to 
 
 [Udemy: The Complete Hands On Course To Master Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow)
 
+## Machine Learning Engineering Case Studies
+
+Here is a compiled list of technical journeys of different companies in applying and scaling up their machine learning systems.
+
+[Google: Best Practices for Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
+
+[ByteDance: How Tik-Tok Wins The Social Media Recommendation System War (transcription)](https://leehanchung.github.io/2020-02-18-Tik-Tok-Algorithm/)
+
+[NerdWallet: How NerdWallet Dialed Machine Learning Up to 11](https://www.nerdwallet.com/blog/engineering/how-nerdwallet-dialed-machine-learning-up-to-11/)
+
+[AI Dungeon: How we scaled AI Dungeon 2 to support over 1,000,000 users](https://medium.com/@aidungeon/how-we-scaled-ai-dungeon-2-to-support-over-1-000-000-users-d207d5623de9)
+
+[Spotify: The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
+
+[Trigo: How Trigo built a scalable AI development & deployment pipeline for Frictionless Retail](https://medium.com/pytorch/how-trigo-built-a-scalable-ai-development-deployment-pipeline-for-frictionless-retail-b583d25d0dd)
 
 ## Deep Learning Overview
 
@@ -359,6 +374,6 @@ You can use my compilation and my reference solutions under the open CC BY-SA 3.
   title = {Full Stack Machine Learning Engineering Courses},
   year = {2020},
   howpublished = {Github Repo},
-  url = {https://github.com/awesome-full-stack-machine-learning-courses}
+  url = {https://github.com/leehanchung/awesome-full-stack-machine-learning-courses}
 }
 ```
